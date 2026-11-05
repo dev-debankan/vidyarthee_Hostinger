@@ -1,0 +1,41 @@
+{
+  "title": "Community Services",
+  "services": [
+    {
+      "id": "coaching",
+      "title": "Free Coaching",
+      "description": "{{PLACEHOLDER_COACHING_DESC}}",
+      "icon": "coaching"
+    },
+    {
+      "id": "library",
+      "title": "Students' Library",
+      "description": "{{PLACEHOLDER_LIBRARY_DESC}}",
+      "icon": "library"
+    },
+    {
+      "id": "dispensary",
+      "title": "Homeopathic Dispensary",
+      "description": "{{PLACEHOLDER_DISPENSARY_DESC}}",
+      "icon": "dispensary"
+    },
+    {
+      "id": "ambulance",
+      "title": "Ambulance & Oxygen",
+      "description": "{{PLACEHOLDER_AMBULANCE_DESC}}",
+      "icon": "ambulance"
+    },
+    {
+      "id": "kindergarten",
+      "title": "Bidyarthi Shishu Niketan",
+      "description": "{{PLACEHOLDER_KINDERGARTEN_DESC}}",
+      "icon": "kindergarten"
+    },
+    {
+      "id": "book-fair",
+      "title": "Annual Book Fair",
+      "description": "{{PLACEHOLDER_BOOK_FAIR_DESC}}",
+      "icon": "bookFair"
+    }
+  ]
+}

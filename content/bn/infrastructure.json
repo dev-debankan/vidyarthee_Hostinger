@@ -1,0 +1,41 @@
+{
+  "title": "অবকাঠামো",
+  "sections": [
+    {
+      "id": "campus",
+      "title": "ক্যাম্পাস",
+      "description": "{{PLACEHOLDER_CAMPUS_DESC}}",
+      "imageSlot": "/images/placeholder-campus.jpg"
+    },
+    {
+      "id": "building-classrooms",
+      "title": "ভবন ও শ্রেণীকক্ষ",
+      "description": "{{PLACEHOLDER_BUILDING_DESC}}",
+      "imageSlot": "/images/placeholder-building.jpg"
+    },
+    {
+      "id": "open-air-stage",
+      "title": "উন্মুক্ত মঞ্চ",
+      "description": "{{PLACEHOLDER_STAGE_DESC}}",
+      "imageSlot": "/images/placeholder-stage.jpg"
+    },
+    {
+      "id": "playground",
+      "title": "খেলার মাঠ",
+      "description": "{{PLACEHOLDER_PLAYGROUND_DESC}}",
+      "imageSlot": "/images/placeholder-playground.jpg"
+    },
+    {
+      "id": "library",
+      "title": "পাঠাগার",
+      "description": "{{PLACEHOLDER_LIBRARY_INFRA_DESC}}",
+      "imageSlot": "/images/placeholder-library.jpg"
+    },
+    {
+      "id": "sanitation",
+      "title": "পানীয় জল ও স্যানিটেশন",
+      "description": "{{PLACEHOLDER_SANITATION_DESC}}",
+      "imageSlot": "/images/placeholder-sanitation.jpg"
+    }
+  ]
+}

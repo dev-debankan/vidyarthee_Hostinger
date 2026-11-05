@@ -1,0 +1,58 @@
+import type { NoticeItem } from "@/types";
+
+export const MOCK_NOTICES: NoticeItem[] = [
+  {
+    id: "not-1",
+    title_bn: "নতুন শিক্ষাবর্ষের ভর্তি বিজ্ঞপ্তি ২০২৬ (পঞ্চম – দশম শ্রেণী)",
+    title_en: "Admission Notice for New Academic Session 2026 (Classes V–X)",
+    body_bn: "বিদ্যার্থী ফ্রি কোচিং সেন্টারে ২০২৬ শিক্ষাবর্ষের জন্য বিনামূল্যে ভর্তি চলছে। আগ্রহী ছাত্রছাত্রীরা অবিলম্বে আবেদন ফর্ম জমা দিন।",
+    body_en: "Free admissions are open for the 2026 academic session at Bidyarthi Free Coaching Centre. Interested students are requested to submit application forms promptly.",
+    file_url: "/sample-notice.pdf",
+    file_type: "pdf",
+    file_size: 1248576, // ~1.2 MB
+    is_pinned: true,
+    published_at: "2026-09-25T10:00:00Z",
+  },
+  {
+    id: "not-2",
+    title_bn: "বার্ষিক বইমেলার স্টল আবণ্টন সংক্রান্ত নোটিশ",
+    title_en: "Annual Book Fair Stall Allocation Notice",
+    body_bn: "আসন্ন বার্ষিক বইমেলা ২০২৬-এর জন্য স্টল আবণ্টন আবেদন প্রক্রিয়া শুরু হয়েছে।",
+    body_en: "Stall allocation application process for the upcoming Annual Book Fair 2026 has commenced.",
+    file_url: "/sample-stall-notice.pdf",
+    file_type: "pdf",
+    file_size: 856000,
+    is_pinned: true,
+    published_at: "2026-09-20T14:30:00Z",
+  },
+  {
+    id: "not-3",
+    title_bn: "ছাত্র পাঠাগারের নতুন বই সংযোজন ও সময়সূচী পরিবর্তন",
+    title_en: "Student Library New Book Arrival & Revised Timings",
+    body_bn: "পাঠাগারে ৫০০টি নতুন রেফারেন্স বই সংযোজিত হয়েছে। বিকেল ৪টা থেকে রাত ৮টা পর্যন্ত খোলা থাকবে।",
+    body_en: "500 new reference books added to the library. The library will remain open from 4:00 PM to 8:00 PM.",
+    is_pinned: false,
+    published_at: "2026-09-15T09:00:00Z",
+  },
+  {
+    id: "not-4",
+    title_bn: "বিনামূল্যে স্বাস্থ্য ও সচেতনতা শিবির",
+    title_en: "Free Health Checkup & Awareness Camp",
+    body_bn: "আগামী রবিবার সেন্টারের দাতব্য চিকিৎসালয়ে নিখরচায় স্বাস্থ্য পরীক্ষা শিবির অনুষ্ঠিত হবে।",
+    body_en: "A free health checkup camp will be organized at the charitable dispensary next Sunday.",
+    is_pinned: false,
+    published_at: "2026-09-10T11:15:00Z",
+  },
+  {
+    id: "not-5",
+    title_bn: "মাধ্যমিক পরীক্ষার্থীদের জন্য বিশেষ মক টেস্ট সিরিজ",
+    title_en: "Special Mock Test Series for Madhyamik Examinees",
+    body_bn: "দশম শ্রেণীর পরীক্ষার্থীদের প্রস্তুতির জন্য বিশেষ মক টেস্ট সূচী প্রকাশ করা হলো।",
+    body_en: "Special mock test schedule published for Class X exam preparation.",
+    file_url: "/mock-test-schedule.pdf",
+    file_type: "pdf",
+    file_size: 512000,
+    is_pinned: false,
+    published_at: "2026-09-05T16:00:00Z",
+  },
+];

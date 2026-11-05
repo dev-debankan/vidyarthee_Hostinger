@@ -1,0 +1,129 @@
+{
+  "common": {
+    "siteName": "Bidyarthi Free Coaching Centre",
+    "tagline": "A unique blend of education, culture, and social service",
+    "home": "Home",
+    "about": "About Us",
+    "coaching": "Free Coaching",
+    "library": "Student Library",
+    "events": "Events",
+    "gallery": "Gallery",
+    "notices": "Notices",
+    "dispensary": "Charitable Dispensary",
+    "ambulance": "Ambulance Service",
+    "bookFair": "Book Fair",
+    "kindergarten": "Kindergarten",
+    "forms": "Forms",
+    "contact": "Contact",
+    "highlightsSectionTitle": "Our Key Initiatives"
+  },
+  "nav": {
+    "menu": "Menu",
+    "close": "Close",
+    "languageSwitcher": "Switch Language"
+  },
+  "home": {
+    "heroTitle": "Welcome to Bidyarthi Free Coaching Centre",
+    "heroSubtitle": "Dedicated to free education, student library, healthcare, and social welfare in Simurali, Nadia since 1987.",
+    "introText": "Our mission is to ensure quality education for every student and extend medical and emergency assistance to underprivileged communities.",
+    "leadershipTitle": "Leadership Messages",
+    "highlightsSectionTitle": "Our Key Initiatives",
+    "noticesSectionTitle": "Latest Notices",
+    "eventsSectionTitle": "Upcoming Events",
+    "quickLinksTitle": "Quick Actions",
+    "viewAllNotices": "View All Notices →",
+    "viewAllEvents": "View All Events →",
+    "noNoticesMessage": "No notices currently available.",
+    "noEventsMessage": "No upcoming events scheduled.",
+    "noHighlightsMessage": "No initiatives listed."
+  },
+  "footer": {
+    "addressLabel": "Address",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "copyright": "© All Rights Reserved Bidyarthi Free Coaching Centre (1987–2026)",
+    "quickLinksTitle": "Quick Links",
+    "servicesTitle": "Services & Activities"
+  },
+  "ui": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFoundTitle": "Page Not Found",
+    "notFoundDesc": "Sorry, the page you are looking for could not be found.",
+    "serverError": "Server Error",
+    "back": "Go Back",
+    "readMore": "Read More",
+    "download": "Download",
+    "search": "Search",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close"
+  },
+  "contact": {
+    "pageTitle": "Contact Us",
+    "nameLabel": "Your Name",
+    "emailLabel": "Email Address",
+    "phoneLabel": "Phone Number",
+    "messageLabel": "Message",
+    "submitButton": "Send",
+    "successMessage": "Your message has been sent successfully.",
+    "errorMessage": "There was a problem sending your message. Please try again."
+  },
+  "notices": {
+    "pageTitle": "Notice Board",
+    "pageSubtitle": "Latest announcements, admissions, events, and important information from Bidyarthi Free Coaching Centre",
+    "pinnedLabel": "Important",
+    "newBadge": "NEW",
+    "downloadPdfButton": "View/Download PDF",
+    "openPdf": "Open",
+    "download": "Download",
+    "noNoticesMessage": "No notices found matching your search.",
+    "searchPlaceholder": "Search notices by title or content...",
+    "allCategories": "All Categories",
+    "uncategorized": "Other",
+    "categories": {
+      "Latest": "Latest",
+      "Admission": "Admission",
+      "Event": "Event",
+      "Announcement": "Announcement",
+      "Important Information": "Important Info"
+    },
+    "viewDetails": "View Details →",
+    "rssFeed": "RSS Feed"
+  },
+  "events": {
+    "pageTitle": "Events & Programs",
+    "pageSubtitle": "Educational, cultural, book fair, and social welfare programs hosted by Bidyarthi Free Coaching Centre",
+    "upcomingTab": "Upcoming Events",
+    "pastTab": "Past Events",
+    "allTab": "All Events",
+    "allCategories": "All Categories",
+    "noEventsMessage": "No events found matching your search.",
+    "searchPlaceholder": "Search events by title or venue...",
+    "viewDetails": "View Details →",
+    "dateLabel": "Date",
+    "timeLabel": "Time",
+    "venueLabel": "Venue",
+    "uncategorized": "Other",
+    "categories": {
+      "Educational": "Educational",
+      "Cultural": "Cultural",
+      "Social Welfare": "Social Welfare",
+      "Book Fair": "Book Fair",
+      "Community": "Community",
+      "Special": "Special"
+    }
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "openMenu": "Open Menu",
+    "closeMenu": "Close Menu",
+    "switchLanguage": "Switch Language"
+  },
+  "services": {
+    "pageTitle": "Community Services"
+  },
+  "infrastructure": {
+    "pageTitle": "Infrastructure"
+  }
+}

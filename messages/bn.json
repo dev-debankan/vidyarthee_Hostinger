@@ -1,0 +1,129 @@
+{
+  "common": {
+    "siteName": "বিদ্যার্থী ফ্রি কোচিং সেন্টার",
+    "tagline": "শিক্ষা, সংস্কৃতি ও সমাজসেবার এক অনন্য মেলবন্ধন",
+    "home": "প্রধান পাতা",
+    "about": "আমাদের সম্পর্কে",
+    "coaching": "বিনামূল্যে কোচিং",
+    "library": "ছাত্র পাঠাগার",
+    "events": "অনুষ্ঠান",
+    "gallery": "গ্যালারি",
+    "notices": "বিজ্ঞপ্তি",
+    "dispensary": "দাতব্য চিকিৎসালয়",
+    "ambulance": "অ্যাম্বুলেন্স পরিষেবা",
+    "bookFair": "বইমেলা",
+    "kindergarten": "শিশু শিক্ষাকেন্দ্র",
+    "forms": "ফর্ম",
+    "contact": "যোগাযোগ",
+    "highlightsSectionTitle": "আমাদের উদ্যোগসমূহ"
+  },
+  "nav": {
+    "menu": "মেনু",
+    "close": "বন্ধ করুন",
+    "languageSwitcher": "ভাষা পরিবর্তন"
+  },
+  "home": {
+    "heroTitle": "বিদ্যার্থী ফ্রি কোচিং সেন্টারে স্বাগতম",
+    "heroSubtitle": "১৯৮৭ সাল থেকে শিমুরালি, নদীয়ায় বিনামূল্যে শিক্ষা, ছাত্র পাঠাগার, স্বাস্থ্য ও সমাজসেবায় নিবেদিত।",
+    "introText": "আমাদের লক্ষ্য প্রতিটি শিক্ষার্থীর জন্য মানসম্মত শিক্ষা ও সমাজের অবহেলিত মানুষের পাশে চিকিৎসা ও জরুরি সেবা সুনিশ্চিত করা।",
+    "leadershipTitle": "নেতৃত্বের বার্তা",
+    "highlightsSectionTitle": "আমাদের উদ্যোগসমূহ",
+    "noticesSectionTitle": "সাম্প্রতিক বিজ্ঞপ্তি",
+    "eventsSectionTitle": "আসন্ন অনুষ্ঠানসমূহ",
+    "quickLinksTitle": "জরুরি সংযোগ",
+    "viewAllNotices": "সকল বিজ্ঞপ্তি দেখুন →",
+    "viewAllEvents": "সকল অনুষ্ঠান দেখুন →",
+    "noNoticesMessage": "বর্তমানে কোনো বিজ্ঞপ্তি নেই।",
+    "noEventsMessage": "বর্তমানে কোনো নির্ধারিত অনুষ্ঠান নেই।",
+    "noHighlightsMessage": "কোনো উদ্যোগ তালিকাভুক্ত নেই।"
+  },
+  "footer": {
+    "addressLabel": "ঠিকানা",
+    "phoneLabel": "ফোন",
+    "emailLabel": "ইমেল",
+    "copyright": "© সর্বস্বত্ব সংরক্ষিত বিদ্যার্থী ফ্রি কোচিং সেন্টার (১৯৮৭–২০২৬)",
+    "quickLinksTitle": "প্রয়োজনীয় লিঙ্ক",
+    "servicesTitle": "পরিষেবা ও কার্যক্রম"
+  },
+  "ui": {
+    "loading": "লোড হচ্ছে...",
+    "error": "একটি ত্রুটি ঘটেছে",
+    "notFoundTitle": "পৃষ্ঠা পাওয়া যায়নি",
+    "notFoundDesc": "দুঃখিত, আপনি যে পৃষ্ঠাটি খুঁজছেন তা পাওয়া যায়নি।",
+    "serverError": "সার্ভার ত্রুটি",
+    "back": "ফিরে যান",
+    "readMore": "আরও পড়ুন",
+    "download": "ডাউনলোড করুন",
+    "search": "অনুসন্ধান",
+    "submit": "জমা দিন",
+    "cancel": "বাতিল",
+    "close": "বন্ধ করুন"
+  },
+  "contact": {
+    "pageTitle": "যোগাযোগ করুন",
+    "nameLabel": "আপনার নাম",
+    "emailLabel": "ইমেল ঠিকানা",
+    "phoneLabel": "ফোন নম্বর",
+    "messageLabel": "বার্তা",
+    "submitButton": "পাঠান",
+    "successMessage": "আপনার বার্তা সফলভাবে পাঠানো হয়েছে।",
+    "errorMessage": "বার্তা পাঠাতে সমস্যা হয়েছে। আবার চেষ্টা করুন।"
+  },
+  "notices": {
+    "pageTitle": "বিজ্ঞপ্তি ফলক",
+    "pageSubtitle": "বিদ্যার্থী ফ্রি কোচিং সেন্টার-এর সর্বশেষ ঘোষণা, ভর্তি ও অনুষ্ঠান সংক্রান্ত তথ্য",
+    "pinnedLabel": "গুরুত্বপূর্ণ",
+    "newBadge": "নতুন",
+    "downloadPdfButton": "পিডিএফ দেখুন/ডাউনলোড করুন",
+    "openPdf": "খুলুন",
+    "download": "ডাউনলোড",
+    "noNoticesMessage": "কোনো বিজ্ঞপ্তি পাওয়া যায়নি।",
+    "searchPlaceholder": "শিরোনাম বা বিষয়বস্তু খুঁজুন...",
+    "allCategories": "সকল বিভাগ",
+    "uncategorized": "অন্যান্য",
+    "categories": {
+      "Latest": "সাম্প্রতিক",
+      "Admission": "ভর্তি",
+      "Event": "অনুষ্ঠান",
+      "Announcement": "ঘোষণা",
+      "Important Information": "জরুরি তথ্য"
+    },
+    "viewDetails": "বিস্তারিত পড়ুন →",
+    "rssFeed": "RSS ফিড"
+  },
+  "events": {
+    "pageTitle": "অনুষ্ঠান ও কার্যক্রম",
+    "pageSubtitle": "বিদ্যার্থী ফ্রি কোচিং সেন্টার-এর শিক্ষা, সংস্কৃতি, রক্তদান ও সমাজসেবামূলক আয়োজনসমূহ",
+    "upcomingTab": "আসন্ন অনুষ্ঠানসমূহ",
+    "pastTab": "পূর্ববর্তী অনুষ্ঠানসমূহ",
+    "allTab": "সকল অনুষ্ঠান",
+    "allCategories": "সকল বিভাগ",
+    "noEventsMessage": "কোনো অনুষ্ঠান পাওয়া যায়নি।",
+    "searchPlaceholder": "অনুষ্ঠানের নাম বা স্থান খুঁজুন...",
+    "viewDetails": "বিস্তারিত দেখুন →",
+    "dateLabel": "তারিখ",
+    "timeLabel": "সময়",
+    "venueLabel": "স্থান",
+    "uncategorized": "অন্যান্য",
+    "categories": {
+      "Educational": "শিক্ষামূলক",
+      "Cultural": "সাংস্কৃতিক",
+      "Social Welfare": "সমাজসেবা",
+      "Book Fair": "বইমেলা",
+      "Community": "সাম্প্রদায়িক",
+      "Special": "বিশেষ আয়োজন"
+    }
+  },
+  "a11y": {
+    "skipToContent": "মূল বিষয়ে যান",
+    "openMenu": "মেনু খুলুন",
+    "closeMenu": "মেনু বন্ধ করুন",
+    "switchLanguage": "ভাষা পরিবর্তন"
+  },
+  "services": {
+    "pageTitle": "সম্প্রদায় পরিষেবা"
+  },
+  "infrastructure": {
+    "pageTitle": "অবকাঠামো"
+  }
+}

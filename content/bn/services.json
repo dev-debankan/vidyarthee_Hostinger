@@ -1,0 +1,41 @@
+{
+  "title": "সম্প্রদায় পরিষেবা",
+  "services": [
+    {
+      "id": "coaching",
+      "title": "বিনামূল্যে কোচিং",
+      "description": "{{PLACEHOLDER_COACHING_DESC}}",
+      "icon": "coaching"
+    },
+    {
+      "id": "library",
+      "title": "ছাত্র পাঠাগার",
+      "description": "{{PLACEHOLDER_LIBRARY_DESC}}",
+      "icon": "library"
+    },
+    {
+      "id": "dispensary",
+      "title": "হোমিওপ্যাথিক ডিসপেনসারি",
+      "description": "{{PLACEHOLDER_DISPENSARY_DESC}}",
+      "icon": "dispensary"
+    },
+    {
+      "id": "ambulance",
+      "title": "অ্যাম্বুলেন্স ও অক্সিজেন",
+      "description": "{{PLACEHOLDER_AMBULANCE_DESC}}",
+      "icon": "ambulance"
+    },
+    {
+      "id": "kindergarten",
+      "title": "বিদ্যার্থী শিশু নিকেতন",
+      "description": "{{PLACEHOLDER_KINDERGARTEN_DESC}}",
+      "icon": "kindergarten"
+    },
+    {
+      "id": "book-fair",
+      "title": "বার্ষিক বইমেলা",
+      "description": "{{PLACEHOLDER_BOOK_FAIR_DESC}}",
+      "icon": "bookFair"
+    }
+  ]
+}
